@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Visualization and App Developer at Lumen Saude<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Data Visualization and App Developer at Lumen Saude<br>👯 I’m looking to collaborate on Shiny Dashboards projects <br>🤝 I’m looking for help with Shiny Dashboards projects<br>🌱 I’m currently learning Dart and Flutter<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
