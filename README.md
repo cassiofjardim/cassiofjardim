@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Data Scientist, Specialist in Data Visualizaton and currently Developing Mobile Apps with Dart/Flutter
 🔭 I’m currently working on Data Visualization and App Developer at Lumen Saude<br>👯 I’m looking to collaborate on Shiny Dashboards projects <br>🤝 I’m looking for help with Shiny Dashboards projects<br>🌱 I’m currently learning Dart and Flutter<br>💬 Ask me about<br>⚡ Fun fact
 
 
