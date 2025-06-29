@@ -1,4 +1,4 @@
-# 💫 About Me: Data Scientist, Specialist in Data Visualizaton and currently Developing Apps with AI platform such as Lovable and Cursor.
+# 💫 About Me: Data Analyst, Specialist in Data Visualizaton and currently Developing Apps with AI platform such as Lovable and Cursor.
 🔭 I’m currently working on Data Visualization, Analytics and App Developer at Lumen Saude<br>👯 I’m looking to collaborate on Shiny Dashboards projects <br>🤝 I’m looking for help with Shiny Dashboards projects<br>🌱 I’m currently working with AI Platforms such as Lovable and Crusor<br>💬 Ask me about<br>
 <!-- Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data4shiny) -->
 
