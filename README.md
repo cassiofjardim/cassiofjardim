@@ -1,5 +1,10 @@
-# 💫 About Me: Data Analyst, Specialist in Data Visualizaton and currently Developing Apps with AI platform such as Lovable and Cursor.
-🔭 I’m currently working on Data Visualization, Analytics and App Developer at Lumen Saude<br>👯 I’m looking to collaborate on Shiny Dashboards projects <br>🤝 I’m looking for help with Shiny Dashboards projects<br>🌱 I’m currently working with AI Platforms such as Lovable and Crusor<br>💬 Ask me about<br>
+# 💫 About Me: Data Analyst, Specialist in Data Visualizaton and currently Developing Apps with AI platform such as Lovable and Cursor.<br>
+🔭 Currently working with Data Visualization, Analytics, and App Development at Lumen Saúde, a mental health startup focused on education and digital innovation.<br>
+👯 Open to collaborations on Shiny dashboards and interactive data applications.<br>
+🤝 Interested in exchanging ideas and learning more about best practices in Shiny development.<br>
+🌱 Actively exploring AI platforms like Lovable and Cursor to accelerate app creation and content generation.<br>
+🔄 Also working with API automation tools such as n8n to integrate data pipelines and streamline workflows.<br>
+💬 Ask me about<br>
 <!-- Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data4shiny) -->
 
 
