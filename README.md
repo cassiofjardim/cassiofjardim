@@ -1,28 +1,117 @@
-# 💫 About Me: Data Scientist, Specialist in Data Visualizaton and currently Developing Apps with AI platform such as Lovable and Cursor.
-🔭 I’m currently working on Data Visualization, Analytics and App Developer at Lumen Saude<br>👯 I’m looking to collaborate on Shiny Dashboards projects <br>🤝 I’m looking for help with Shiny Dashboards projects<br>🌱 I’m currently learning Dart and Flutter/Flutterflow<br>💬 Ask me about<br>
-Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data4shiny) 
+![Cassio Félix - Infrastructure & Automation](https://raw.githubusercontent.com/cassiofjardim/cassiofjardim/main/icons/banner.svg)
 
+<p align="center">
 
-## 🌐 Socials:
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/data4shiny) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/data4shiny) /* [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@data4shiny) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/data4shiny) -->
+<a href="https://www.linkedin.com/in/cassio-felix/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/cassiofjardim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 
-![Linkedin](https://img.shields.io/badge/linkedin-blue.svg)(https://www.linkedin.com/in/cassio-felix)
+</p>
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cassiofjardim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=cassiofjardim&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiofjardim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+------------------------------------------------------------------------
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### About Me
 
----
-  [![](https://visitcount.itsvg.in/api?id=cassiofjardim&icon=0&color=0)](https://visitcount.itsvg.in)
+Economista de formação, Mestre em Economia pela UFMG, com mais de 8 anos de experiência em tecnologia e dados. Minha trajetória saiu de Data Science e econometria e chegou em arquitetura de plataformas, automação e infraestrutura cloud. Trabalho com R e Shiny para construção de dashboards interativos e aplicações analíticas.
+------------------------------------------------------------------------
 
-<!-- ## 💰 You can help me by Donating -->
-<!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/data4shiny) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/data4shiny) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/data4shiny) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/data4shiny) -->
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cassiofjardim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cassiofjardim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="170"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiofjardim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
+</p>
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/Shiny-13849E?style=for-the-badge&logo=rstudio&logoColor=white" alt="Shiny"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/VPS_Management-FF6C2C?style=for-the-badge&logo=serverfault&logoColor=white" alt="VPS Management"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
+<img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
+<img src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white" alt="tidyverse"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logoColor=white" alt="Claude Code"/>
+
+</p>
+
+------------------------------------------------------------------------
+
+## 🏗️ Infraestrutura
+
+Ferramentas e tecnologias que uso no dia a dia para manter ambientes estáveis e seguros.
+
+-   **Linux** — Administração de servidores e hardening
+-   **Docker** — Containerização e orquestração de serviços
+-   **Traefik & Nginx** — Reverse proxy, load balancing e SSL
+-   **PostgreSQL** — Banco de dados relacional, backup e tuning
+-   **GitHub Actions** — CI/CD pipelines e automação de deploys
+
+------------------------------------------------------------------------
+
+## ⚙️ Automação
+
+Plataformas e integrações para automatizar processos e comunicação.
+
+-   **N8N** — Workflows de automação e integração entre sistemas
+-   **Evolution API** — Integração com WhatsApp Business
+-   **Chatwoot** — Plataforma de atendimento omnichannel
+
+------------------------------------------------------------------------
+
+## 📈 R & Shiny Development
+
+Desenvolvimento de aplicações analíticas e dashboards interativos com o ecossistema R.
+
+-   **Shiny** — Dashboards interativos e aplicações web analíticas
+-   **R** — Análise de dados, modelagem estatística e econometria
+-   **ggplot2** — Visualização de dados e storytelling
+-   **tidyverse** — Manipulação e transformação de dados
+-   **golem / rhino** — Frameworks para Shiny apps em produção
+
+------------------------------------------------------------------------
+
+## 💻 Desenvolvimento
+
+Linguagens e frameworks para construção de aplicações e análise de dados.
+
+-   **Node.js & React** — Aplicações web fullstack
+-   **Python** — Scripts, automação e análise de dados
+-   **SQL** — Consultas e modelagem de dados
+
+------------------------------------------------------------------------
+
+## ☁️ Cloud & DevOps
+
+Práticas e ferramentas para operação e governança de ambientes.
+
+-   **VPS Management** — Provisionamento e manutenção de servidores
+-   **CI/CD** — Pipelines de integração e entrega contínua
+-   **Git Governance** — Controle de versionamento e políticas de branch
+-   **Backup & DR** — Estratégias de backup e disaster recovery
+
+------------------------------------------------------------------------
+
+## 📌 Princípios
+
+-   Segurança e estabilidade antes de funcionalidades
+-   Se não está documentado, não existe
+-   Se faz duas vezes, automatiza na terceira
+-   Infraestrutura boa é a que ninguém percebe
