@@ -1,4 +1,4 @@
-![Cassio Félix - Infrastructure & Automation](https://raw.githubusercontent.com/cassiofjardim/cassiofjardim/main/icons/banner.svg)
+![Cassio Félix - Infrastructure & Automation](https://raw.githubusercontent.com/cassiofjardim/cassiofjardim/main/icons/banner.png)
 
 <p align="center">
 
