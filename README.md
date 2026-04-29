@@ -53,10 +53,3 @@ Minha atuação conecta análise, produto e operação: transformar problemas de
   <img src="https://github-readme-stats.vercel.app/api?username=cassiofjardim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiofjardim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </p>
-
-## Princípios
-
-- Segurança e estabilidade antes de funcionalidades.
-- Se não está documentado, não existe.
-- Se faz duas vezes, automatiza na terceira.
-- Infraestrutura boa é a que ninguém percebe.
