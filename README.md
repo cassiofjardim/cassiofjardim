@@ -1,4 +1,4 @@
-![Cassio Félix - Dados, Automação e IA](https://raw.githubusercontent.com/cassiofjardim/cassiofjardim/main/icons/banner.png)
+![Cassio Félix - Shiny Developer, Dados, Automação e IA](https://raw.githubusercontent.com/cassiofjardim/cassiofjardim/main/icons/banner.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cassio-felix/">
@@ -11,15 +11,15 @@
 
 ## Sobre
 
-Especialista em Dados, Automação e IA, com formação em Economia e mestrado pela UFMG. Construo soluções digitais de ponta a ponta combinando pipelines de dados, dashboards, automações, APIs, IA generativa e infraestrutura cloud.
+Shiny Developer e Especialista em Dados, Automação e IA, com formação em Economia e mestrado pela UFMG. Construo aplicações analíticas e soluções digitais de ponta a ponta combinando R/Shiny, pipelines de dados, dashboards, automações, APIs, IA generativa e infraestrutura cloud.
 
 Minha atuação conecta análise, produto e operação: transformar problemas de negócio em sistemas práticos, mensuráveis e sustentáveis em produção.
 
 ## Foco Atual
 
+- **Shiny Development**: aplicações analíticas, dashboards interativos e produtos internos em R.
 - **Dados e analytics**: ETL, dashboards, modelagem estatística e visualização.
 - **Automação e IA**: workflows com N8N, APIs, WhatsApp, agentes e ferramentas generativas.
-- **Aplicações analíticas**: R/Shiny, interfaces web e produtos internos para operação.
 - **Infraestrutura**: VPS Linux, Docker, bancos de dados, CI/CD, backups e monitoramento.
 
 ## Stack
@@ -43,7 +43,7 @@ Minha atuação conecta análise, produto e operação: transformar problemas de
 
 - Prospecção comercial automatizada com WhatsApp API, N8N, PostgreSQL e bases públicas.
 - Plataformas internas integradas a Google Workspace, Chatwoot, ERP e bancos de dados.
-- Dashboards executivos e aplicações analíticas em R/Shiny para decisão de negócio.
+- Dashboards executivos e aplicações analíticas em R/Shiny para decisão de negócio e operação.
 - Pipelines de dados com web scraping, APIs públicas, tratamento, validação e visualização.
 - Operação de ambientes em VPS com Docker Compose, deploys, backups e boas práticas de Git.
 
